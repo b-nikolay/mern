@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "test",
+  "mongoUri": "mongodb+srv://Nicolay:root@cluster0.scyao.mongodb.net/app",
+  "baseUrl": "http://localhost:5000/"
+}
